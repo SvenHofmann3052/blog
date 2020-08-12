@@ -1,7 +1,7 @@
 +++
 title = "Blog 12.08.2020"
 date = "2020-08-12"
-draft = false
+draft = true
 pinned = false
 description = "Ideen für den Blog "
 +++
