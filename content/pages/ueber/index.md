@@ -1,8 +1,8 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = ""
 +++
 ![](/img/default-author.png)
 
