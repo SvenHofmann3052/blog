@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/media/web-s.png"
-logo = ""
+logo = "/media/web-s.png"
 image = ""
 color = ""
 +++
