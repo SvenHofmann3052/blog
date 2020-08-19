@@ -6,8 +6,4 @@ description = ""
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
-
-info@lernblog.ch
-
-Beschreibung, wer ich bin...
+## Sven Hofmann
