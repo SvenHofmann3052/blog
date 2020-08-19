@@ -3,6 +3,7 @@ title = "Blog 12.08.2020"
 date = "2020-08-12"
 draft = false
 pinned = false
+image = "web-mindmap.jpg"
 description = "Ideen für den Blog "
 +++
 **Ideen für das Projekt:**
