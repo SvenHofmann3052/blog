@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
+icon = "/media/web-s.png"
 logo = ""
 image = ""
 color = ""
 +++
-
