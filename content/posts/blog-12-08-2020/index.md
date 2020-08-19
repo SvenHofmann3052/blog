@@ -1,5 +1,5 @@
 +++
-title = "Blog 12.08.2020"
+title = "Was möchte ich tun"
 date = "2020-08-12"
 draft = false
 pinned = false
