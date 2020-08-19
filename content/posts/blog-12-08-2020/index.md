@@ -6,6 +6,8 @@ pinned = false
 image = "web-mindmap.jpg"
 description = "Ideen für den Blog "
 +++
+![](web-mindmap.jpg)
+
 **Ideen für das Projekt:**
 
 **Was ich lernen möchte:**
