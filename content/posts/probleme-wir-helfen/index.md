@@ -3,6 +3,7 @@ title = "Probleme? Wir helfen. "
 date = "2020-08-26"
 draft = false
 pinned = false
+image = "web-probleme.jpg"
 description = "Wir haben auf der Strasse Leute nach ihren Problemen gefragt. "
 +++
 Heute haben wir Leute auf der Strasse nach ihren Problemen gefragt. Viele Menschen hatten Probleme welche mir nicht lösen können. Bei den Anderen haben wir versucht, eine Lösung zu finden die im Rahmen unserer Möglichkeiten sind. 
