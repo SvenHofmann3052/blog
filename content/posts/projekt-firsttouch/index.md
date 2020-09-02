@@ -6,6 +6,8 @@ pinned = false
 image = "web-fussball.png"
 description = "Wir begannen mit der Planung unserer Web Seite FirstTouch. "
 +++
+![](web-mindmap-firsttouch.png)
+
 Wir haben uns zu Beginn der Lektionen für zwei Ideen entschieden .Die eine war die Sport-App, die andere die Online Schulbücher. Nach der Besprechung haben wir uns definitiv für die Sport-App entschieden. Im Anschluss konkretisierten wir unsere Ideen und Vorstellungen und begannen mit der Planung. 
 
 Wir haben uns Gedanken über die Vermarkung der App gemacht. Wir haben überlegt in welchem Ramen es möglich ist Werbung zu machen. 
