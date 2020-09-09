@@ -8,8 +8,6 @@ description = "Ideen für den Blog "
 +++
 ![](web-marketing.jpg)
 
-**Ideen für das Projekt:**
-
 **Was ich lernen möchte:**
 
 \- Ich möchte die Erfahrung sammeln wie man einen Blog aktuell hält. 
