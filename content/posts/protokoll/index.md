@@ -6,6 +6,8 @@ pinned = false
 image = "web-protokoll.jpg"
 description = "Wie schreibe ich ein Protokoll?"
 +++
+![](web-protokoll-2.png)
+
 Was muss in einem Protokoll sein?
 
 \- Datum und Uhrzeit
