@@ -3,7 +3,7 @@ title = "Homeoffice"
 date = "2020-10-28"
 draft = false
 pinned = false
-image = "web-homeoffice.jpg"
+image = "web_büro3.jpg"
 description = "Zuhause Schule haben"
 +++
 Wir haben am Mittwoch Nachmittag nach dem Unterricht noch an unserem Projekt weitergearbeitet. Wir waren in einem Flow und arbeiteten weiter. Wir machten grosse Erfolge bei der Erstellung und Gestaltung der Web-Seite und waren daher auch überaus glücklich. 
