@@ -11,3 +11,5 @@ Wir konnten verschiedene Befehle von einer Webseite aus dem Internet kopieren un
 Im zweiten Teil konnten wir an unseren Projekten arbeiten. Wir fuhren mit der Planung fort. Am Ende hatten wir noch Zeit unsere Webseiten voranzubringen.
 
 ![](web_programmieren2.png)
+
+![](web_programmieren3.png)
