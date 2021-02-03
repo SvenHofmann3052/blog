@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "old-instagram-logo.jpg"
 +++
-Am 3. Februar arbeiteten wir von zuhause aus. Wir wollten mit unserem neuen Projekt beginnen. Dazu mussten wir zuerst die CANVAS-Vorlage ausfüllen. Wir füllten diese einzeln aus und besprachen sie im Anschluss gemeinsam. Danach erkundigten wir uns, wie man bei unserem neuen Projekt vorgeht. Aus Datenschutzgründen haben wir diese zensiert. 
+Am 3. Februar arbeiteten wir von zuhause aus. Wir wollten mit unserem neuen Projekt beginnen. Dazu mussten wir zuerst die Canvas-Vorlage ausfüllen. Wir füllten diese einzeln aus und besprachen sie im Anschluss gemeinsam. Danach erkundigten wir uns, wie man bei unserem neuen Projekt vorgeht. Aus Datenschutzgründen haben wir diese zensiert. 
 
 \
 Das neue Projekt::
