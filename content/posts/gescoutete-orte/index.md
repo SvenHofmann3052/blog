@@ -6,6 +6,8 @@ pinned = false
 image = "microsoftteams-image-3-.png"
 description = "Wir haben heute vieles vor. "
 +++
+![](microsoftteams-image-3-.png)
+
 Wir haben heute die ersten Texte für unsere Webseite geschrieben. Wir wollten testen, ob es so umsetzbar ist, wie wir es uns vorgestellt haben. Es hat geklappt!
 
 Zudem haben wir noch die gescouteten Plätze von letzter Woche besprochen. Wegen dem Wetter konnten wir leider nicht heute die Fotos machen. 
