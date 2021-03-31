@@ -3,8 +3,11 @@ title = "Jogging "
 date = "2021-03-31"
 draft = false
 pinned = false
+description = "Wir waren heute eine Joggingroute für einen andere Gruppe testen. "
 +++
-Heute sind wir die Jogging-Route von einer anderen Gruppe gelaufen. Wir konnten es uns zeitlich einrichten, da aktuell die Länderspielpause ist. Wir bekamen den Auftrag die Route die uns auf dem Mail gesendet wurde abzulaufen und zu schauen ob alles funktioniert und klar ist. 
+Heute sind wir die Jogging-Route von einer anderen Gruppe gelaufen. Wir konnten es uns zeitlich einrichten, da aktuell die Länderspielpause ist. Wir bekamen den Auftrag die Route die uns auf dem Mail gesendet wurde abzulaufen und zu schauen ob alles funktioniert und klar ist. Im Bild unterhalb sehen Sie die Route die wir machten. 
+
+![](route_sri_2.png)
 
 Zuerst möchte ich erwähnen, dass das System mit dem QR-Code auf meinem Gerät nicht funktioniert hat. Ich konnte es als einziger Testen da die anderen Gruppenmitglieder kein unbeschränktes Datenvolumen haben. Ich weiss nicht ob es an der Android-Software liegt oder an etwas anderem. Wir liessen uns aber nicht aufhalten und joggten los...
 
