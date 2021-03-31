@@ -1,7 +1,7 @@
 +++
 title = "Jogging "
 date = "2021-03-31"
-draft = false
+draft = true
 pinned = false
 image = "sprinten.png"
 description = "Wir waren heute eine Joggingroute für einen andere Gruppe testen. "
