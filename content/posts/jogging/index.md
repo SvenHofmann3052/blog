@@ -3,6 +3,7 @@ title = "Jogging "
 date = "2021-03-31"
 draft = false
 pinned = false
+image = "sprinten.png"
 description = "Wir waren heute eine Joggingroute für einen andere Gruppe testen. "
 +++
 Heute sind wir die Jogging-Route von einer anderen Gruppe gelaufen. Wir konnten es uns zeitlich einrichten, da aktuell die Länderspielpause ist. Wir bekamen den Auftrag die Route die uns auf dem Mail gesendet wurde abzulaufen und zu schauen ob alles funktioniert und klar ist. Im Bild unterhalb sehen Sie die Route die wir machten. 
