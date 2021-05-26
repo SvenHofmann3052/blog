@@ -1,7 +1,7 @@
 +++
 title = "Die Note 6!"
 date = "2021-05-26"
-draft = true
+draft = false
 pinned = false
 tags = []
 image = "unsere-app1.png"
